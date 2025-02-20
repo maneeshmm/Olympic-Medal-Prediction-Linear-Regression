@@ -4,6 +4,7 @@
 This project aims to predict Olympic medal counts for countries using machine learning techniques. The objective is to analyze historical Olympic data and develop a predictive model that forecasts the number of medals a country will win based on various factors.
 
 ## 2. Dataset Description
+You can check out the dataset on Kaggle: [Kaggle Link](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 The dataset includes information on past Olympic performances, country-specific attributes, and athlete statistics. The key features are:
 
 GDP per Capita: Economic strength of the country
